@@ -2,22 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirdy;Full+Stack+Developer+%7C+Student;Web+%7C+Mobile+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **fraannnklin.com** | For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** *Seelai* – A mobile application designed for visually impaired
+//- 🔭 **I’m currently working on:** *Seelai* – A mobile application designed for visually impaired
 - 🌱 **I’m currently learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 💬 **Ask me about:** Web & Mobile Development, Collaboration, Tech Support
-- 📫 **How to reach me:** angelitodecatoriaa@gmail.com
+- 📫 **How to reach me:** fraannnklin@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I talk to my code like it understands me — and sometimes, it listens 😄
 
 ## 🌐 Socials:
-[![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
-[![Instagram: hmptyy_dmpty](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
-[![LinkedIn: Angelito Decatoria III](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
-[![TikTok: @terdeh](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
+[![Facebook: Franklin Sarmiento](https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
+[![Instagram: franklinnn_zzz](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
+[![LinkedIn: Franklin Gian Sarmiento](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
+[![TikTok: @frank.lin8](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
 
-![snake gif](https://github.com/RandomThirdy/RandomThirdy/blob/output/github-snake-dark.svg)
 
 
 # 💻 Tech Stack:
