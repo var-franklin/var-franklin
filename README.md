@@ -26,9 +26,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=var-franklin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=var-franklin&theme=dracula&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=var-franklin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=var-franklin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" style="width: 100%; max-width: 800px;"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=var-franklin&theme=dracula&hide_border=false" style="width: 100%; max-width: 800px;"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=var-franklin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 100%; max-width: 800px;">
 </p>
 
 ## 🌐 Socials:
