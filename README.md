@@ -32,10 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=var-franklin&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=var-franklin&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=var-franklin&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -45,10 +43,6 @@
   <a href="https://www.linkedin.com/in/franklin-gian-sarmiento-67b29a374/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/21749396"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
-
-
-
 
 
 
