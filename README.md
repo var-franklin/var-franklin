@@ -1,3 +1,15 @@
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.facebook.com/franklin.sarmiento08"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/franklinnn_zzz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/franklin-gian-sarmiento-67b29a374/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/21749396"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+</p>
+
+
+
+
+
 # 💻 Tech Stack:
 
 <p align="center">
@@ -73,14 +85,6 @@
 </p>
 
 
-
-## 🌐 Socials:
-<p align="center">
-  <a href="https://www.facebook.com/franklin.sarmiento08"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/franklinnn_zzz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/franklin-gian-sarmiento-67b29a374/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/21749396"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
 
 
 
