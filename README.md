@@ -13,7 +13,7 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-  <strong>--&gt; Programming Languages &lt;--</strong>
+  <strong>Programming Languages:</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <strong>--&gt; Frameworks &amp; Libraries &lt;--</strong>
+  <strong>Frameworks &amp; Libraries:</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <strong>--&gt; Databases &lt;--</strong>
+  <strong>Databases:</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <strong>--&gt; Tools &amp; Platforms &lt;--</strong>
+  <strong>Tools &amp; Platforms</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <strong>--&gt; Cloud &amp; Hosting &lt;--</strong>
+  <strong>Cloud &amp; Hosting</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
